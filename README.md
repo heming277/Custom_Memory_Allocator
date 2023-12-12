@@ -13,6 +13,7 @@ Compile in your local environment
 
 
 gcc -o media_processor main.c allocator.c -lpthread
+
 ./media_processor
 
 It will prompt you for a filepath, enter the full path 
