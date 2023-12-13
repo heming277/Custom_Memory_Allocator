@@ -1,4 +1,4 @@
-A simple media buffer allocator written in C with a thread-safe buffer pool and efficient memory management.
+A simple media buffer allocator I wrote in C with a thread-safe buffer pool and efficient memory management.
 Currently supports Audio and Media file formats like mp3, mp4, wave, aac, flac, ogg, wmv, flv, etc.
 It can be used for media processing and currently computes the average byte value and checksum for each chunk of data for further usage to be implemented.
 
